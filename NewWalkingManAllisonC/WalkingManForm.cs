@@ -15,6 +15,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//adding the threading
+using System.Threading;
 
 namespace NewWalkingManAllisonC
 {
@@ -48,7 +50,7 @@ namespace NewWalkingManAllisonC
             tmpPicMan.Location = pntPic;
 
             //asssign the image to the picture box
-            tmpPicMan.Image = Properties.Resources.wa
+            tmpPicMan.Image = Properties.Resources.walk1;
 
             //make the image fit the picture box height and width
             tmpPicMan.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -89,8 +91,54 @@ namespace NewWalkingManAllisonC
             {
                 if (pictureFrameCounter == 1)
                 {
-                    tmpPicMan.Image = Properties
+                    tmpPicMan.Image = Properties.Resources.walk1;
                 }
+                else if (pictureFrameCounter == 2)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk2;
+                }
+                else if (pictureFrameCounter == 3)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk3;
+                }
+                else if (pictureFrameCounter == 4)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk4;
+                }
+                else if (pictureFrameCounter == 5)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk5;
+                }
+                else if (pictureFrameCounter == 6)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk6;
+                }
+                else if (pictureFrameCounter == 7)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk7;
+                }
+                else if (pictureFrameCounter == 8)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk8;
+                }
+                else if (pictureFrameCounter == 9)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk9;
+                }
+                else if (pictureFrameCounter == 10)
+                {
+                    tmpPicMan.Image = Properties.Resources.walk10;
+                }
+
+                //increment the counter
+                pictureFrameCounter++;
+
+                //refresh the screen
+                this.Refresh();
+
+                //pause the loop
+                Thread.Sleep(50);
+
             }
         }
 

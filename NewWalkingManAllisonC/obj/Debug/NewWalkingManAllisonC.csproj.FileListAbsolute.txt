@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\NewWalkingManAllisonC\NewWalkingManAllisonC\bin\Debug\NewWalkingManAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\NewWalkingManAllisonC\NewWalkingManAllisonC\bin\Debug\NewWalkingManAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\NewWalkingManAllisonC\NewWalkingManAllisonC\bin\Debug\NewWalkingManAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\NewWalkingManAllisonC\NewWalkingManAllisonC\obj\Debug\NewWalkingManAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\NewWalkingManAllisonC\NewWalkingManAllisonC\obj\Debug\NewWalkingManAllisonC.WalkingManForm.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\NewWalkingManAllisonC\NewWalkingManAllisonC\obj\Debug\NewWalkingManAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\NewWalkingManAllisonC\NewWalkingManAllisonC\obj\Debug\NewWalkingManAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\NewWalkingManAllisonC\NewWalkingManAllisonC\obj\Debug\NewWalkingManAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\NewWalkingManAllisonC\NewWalkingManAllisonC\obj\Debug\NewWalkingManAllisonC.pdb
